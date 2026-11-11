@@ -24,6 +24,15 @@ npm start
 - Unknown thrown values
 - Diagnostic explanations and troubleshooting suggestions
 
+
+## Before vs After
+
+### Native Node.js Error
+![Before](screenshots/before-native-error.png)
+
+### With cli-pretty-errors
+![After](screenshots/after-cli-pretty-errors.png)
+
 ## Main package
 
 - npm: https://www.npmjs.com/package/cli-pretty-errors
